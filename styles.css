@@ -22,7 +22,7 @@
   .header {
     padding: 20px;
     text-align: center;
-    background: #0f3460;
+    background: #afdeee;
   }
   .logo img {
     max-width: 200px;
@@ -93,8 +93,9 @@
   
   /* Footer */
   .footer {
-    background: #0f3460;
+    background: #afdeee;
     padding: 10px;
     text-align: center;
     font-size: 0.9em;
+    color: #000000;
   }
